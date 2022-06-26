@@ -20,4 +20,7 @@
         P4, P5, P6
    ```
    The compression may not work correctly
+   
+   # TO DO
+    Compression and decompression of .ppm images
   
