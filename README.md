@@ -5,6 +5,11 @@
   ```gcc netbpm_compression.c
      ./a [command] [filename]
   ```
+  Supported commands :
+  ```
+      -c [compress]
+      -d [decompress]
+  ```
   A file is made with an extension such as
   ```
     .cpbm
