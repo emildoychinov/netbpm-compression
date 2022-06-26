@@ -3,4 +3,5 @@
 
 #USE
   ```gcc netbpm_compression.c
-     ./a [command] [filename]```
+     ./a [command] [filename]
+  ```
