@@ -1,4 +1,4 @@
-# netbpm-compression
+# NETBPM-compression
   A project for the ADS class @ELSYS
 
 # USE
