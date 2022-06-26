@@ -1,5 +1,5 @@
-# NETBPM-compression
-  A project for the ADS class @ELSYS
+# NETBPM compression
+  A project for the Algorithms and data structures class @ELSYS
 
 # USE
   ```gcc netbpm_compression.c
