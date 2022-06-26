@@ -5,6 +5,11 @@
   ```gcc netbpm_compression.c
      ./a [command] [filename]
   ```
+  A file is made with an extension such as
+  ```
+    .cpbm
+    .cpgm
+  ```
  # COMMON PROBLEMS
   If the provided file has comments in it such as
    ```
