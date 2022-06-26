@@ -21,6 +21,6 @@
    ```
    The compression may not work correctly
    
-   # TO DO
-    Compression and decompression of .ppm images
+   # TODO
+   Compression and decompression of .ppm images
   
